@@ -1,0 +1,35 @@
+udemy https://www.udemy.com/
+w3schools https://www.w3schools.com/
+mdn developer https://developer.mozilla.org/en-US/
+github https://github.com/evilEnkidu
+chatgpt https://chatgpt.com/
+colorhunt https://colorhunt.co/
+rgbmixer https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
+coaching https://rmurphey.com/coaching-advising/
+git tutorials https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+sdgku dashboard
+tec http://www.itmexicali.edu.mx/
+reddit https://www.reddit.com/
+
+to read books:
+    dying every day
+    
+to study:
+    Javascript topics:
+    asynchronous programming
+    closures
+    higher order functions
+    
+TypeScript:
+    General
+    
+Database Management & SQL
+    
+Non relational databases
+
+Security fundamentals
+    OWASP Top Ten
+    Secure coding practices
+    authentication/authorization
+    
+"REACT" in depth
